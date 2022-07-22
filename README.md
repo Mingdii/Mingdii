@@ -38,10 +38,10 @@
  
 ### 💁🏻‍♀️ How to contact me?
 <img src="https://img.shields.io/badge/cordelia0515@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<br>
+<br><br>
   
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingdii&count_bg=%2397A5FB&title_bg=%23E999E9&icon=&icon_color=%23EEC9EF&title=hits&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingdii&count_bg=%23E7D9F7&title_bg=%23E999E9&icon=&icon_color=%23EEC9EF&title=hits&edge_flat=true"/></a>
 <br> 
 
-<a href='https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1'>포트폴리오</a>
+<img src="https://img.shields.io/badge/포트폴리오-EA4335?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
