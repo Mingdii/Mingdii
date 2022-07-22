@@ -38,7 +38,7 @@
  
 ### 💁🏻‍♀️ How to contact me?
 📧  **Minji's email ...** 
- <img src="https://img.shields.io/badge/issac1162@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
  <br>
 🗃️  **Minji's notion ...** 
  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1)](mailto:[https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1](https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1))
