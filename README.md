@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:ddd6f3,100:faaca8&height=300&section=header&text=HI,I'M%20MinJI&fontSize=90)
 
 <!-- 맘에드는 컬러 
@@ -49,14 +47,9 @@
 <div align=center>
  
 ### How to reach me? 🤔
-📮  **Minji's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cordelia0515@gmail.com)](mailto:hyodii9736@gmail.com) <br>
-📒  **Hyojin's notion ...** [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)](mailto:https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1)
+📮  **Minji's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cordelia0515@gmail.com)](mailto:cordelia0515@gmail.com) <br>
+📒  **Minji's notion ...** [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)](mailto:https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1)
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyodii&count_bg=%23A2E9FF&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingdii&count_bg=%23A2E9FF&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
-<!---
-hyodii/hyodii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
