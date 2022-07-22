@@ -39,10 +39,9 @@
 ### 💁🏻‍♀️ How to contact me?
 
 📧 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cordelia0515@gmail.com)](mailto:cordelia0515@gmail.com)
-<br><br>  
+<br>
 
-🗃️ <a href="https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1"><img src="https://img.shields.io/badge/포트폴리오-4B0080?style=flat-square&logo=Notion&logoColor=white"/>
-
+🗃️ <a href="https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1"><img src="https://img.shields.io/badge/My Portfolio-4B0080?style=flat-square&logo=Notion&logoColor=white"/>
 <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingdii&count_bg=%23E7D9F7&title_bg=%23E999E9&icon=&icon_color=%23EEC9EF&title=hits&edge_flat=true"/></a>
 <br> 
