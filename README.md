@@ -43,5 +43,5 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingdii&count_bg=%23E7D9F7&title_bg=%23E999E9&icon=&icon_color=%23EEC9EF&title=hits&edge_flat=true"/></a>
 <br> 
 
-<img src="https://img.shields.io/badge/포트폴리오-EA4335?style=flat-square&logo=Notion&logoColor=white"/>
+<a href=https://www.notion.so/7a1a34ba4cda44b7960985e0b01b79c1?v=6f9afd7d09db487ab6b69f1058c64a9a"><img src="https://img.shields.io/badge/포트폴리오-4B0080?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
