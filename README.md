@@ -18,7 +18,7 @@
 <!--<br><b>Hi there! I'm wep developer using Java Spring. </b>-->
 
   
-<h3>💘Tech Stack💘</h3>
+<h3>🌱Tech Stack🌱</h3>
 <p align="center">
 <!-- 색상명 붙여넣을때 앞에 # 떼주기! &nbsp 한칸띄기 -->
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -36,9 +36,12 @@
 
 <div align=center>
  
-### How to contact me? 🤔
-📮  **Minji's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cordelia0515@gmail.com)](mailto:cordelia0515@gmail.com) <br>
-📒  **Minji's notion ...** [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://hyodii9736.notion.site/e1881db6460c4f02be94ef9abdcf1ac6)](mailto:https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1)
+### 💁🏻‍♀️ How to contact me?
+📧  **Minji's email ...** 
+ <img src="https://img.shields.io/badge/issac1162@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+ <br>
+🗃️  **Minji's notion ...** 
+ [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=mailto:https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1)](mailto:[https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1](https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1))
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingdii&count_bg=%23A2E9FF&title_bg=%23C6C6C6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
