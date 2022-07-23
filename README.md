@@ -27,8 +27,8 @@
 
 <br> 
  <img src="https://img.shields.io/badge/JavaScript-fcf6bd?style=flat-square&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/HTML5-d9ed92?style=flat-square&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-b9fbc0?style=flat-square&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-a9def9?style=flat-square&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-e4c1f9?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
 
 </div>
