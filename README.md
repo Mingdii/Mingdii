@@ -26,9 +26,9 @@
  <img src="https://img.shields.io/badge/Oracle-F28482?style=flat-square&logo=Oracle&logoColor=white"/>
 
 <br> 
- <img src="https://img.shields.io/badge/JavaScript-F6BD60?style=flat-square&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/HTML5-84A59D?style=flat-square&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-F7EDE2?style=flat-square&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-fbf8cc?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-a3c4f3?style=flat-square&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-b9fbc0?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
 
 </div>
