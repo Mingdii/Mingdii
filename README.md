@@ -41,7 +41,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-fb6f92?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cordelia0515@gmail.com)](mailto:cordelia0515@gmail.com)
 <br>
 
-<a href="https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1"><img src="https://img.shields.io/badge/My Portfolio-9381ff?style=flat-square&logo=Notion&logoColor=white&color=white"/>
+<a href="https://mighty-cough-b6b.notion.site/7a1a34ba4cda44b7960985e0b01b79c1"><img src="https://img.shields.io/badge/My Portfolio-e4c1f9?style=flat-square&logo=Notion&logoColor=white"/>
 <br>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingdii&count_bg=%23D0F4DE&title_bg=%23A9DEF9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
